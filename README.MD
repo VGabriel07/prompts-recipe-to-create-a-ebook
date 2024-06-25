@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/capa.png"
+    src="./assets/Capa.jpeg"
     width="400"
 />
 </p>
@@ -12,7 +12,7 @@
 
 O projeto surge a partir de um desafio proposto durante o bootcamp, visando a criação de um ebook através da utilização de ferramentas de Inteligência Artificial. Abaixo, encontram-se listados os prompts que nortearão a criação deste projeto.
 
-<a href="" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/VGabriel07/prompts-recipe-to-create-a-ebook/blob/main/output/Ebook%20-%20C%2B%2B%20Level%20Up.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
